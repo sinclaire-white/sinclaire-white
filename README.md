@@ -1,7 +1,7 @@
 <!-- Banner Image (replace the link with your banner image URL) -->
 <img src="https://i.ibb.co.com/d051T7TT/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Banner" style="width:100%;" />
 
-<h1 align="center">👋 Hi, I'm Shahriyar Sifat</h1>
+<h1 align="center">👋 Hi, I'm Shahriyar Rahman Sifat</h1>
 <h3 align="center">Frontend Developer | React Enthusiast </h3>
 
 ---
