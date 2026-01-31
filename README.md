@@ -9,7 +9,7 @@
 ### 💡 About Me
 
 - 🌱 I’m currently learning **React.js** and **Next.js** with TypeScript
-- 🧠 Exploring full-stack development with postgres & prisma with Express
+- 🧠 Exploring full-stack development with postgres, prisma & Express
 - 🌍 Based in **Dhaka, Bangladesh**
 
 
